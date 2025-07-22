@@ -21,9 +21,9 @@
 
 
 
-Simular un sistema de comunicaciones digitales basado en los principios fundamentales de señales y sistemas, para comprender cómo tecnologías como *Wi-Fi/5G* permiten la transmisión de información de alta velocidad.
+Simular un sistema de comunicaciones digitales basado en los principios fundamentales de señales y sistemas, para comprender cómo las tecnologías como *Wi-Fi/5G* permiten la transmisión de información de alta velocidad.
 
-Se culmina el proyecto con el desarrollo de un *dashboard interactivo en Streamlit* y un *video explicativo, integrando herramientas como la **Generación de señales con la FFT, **Filtros Digitales, **Señales I/Q, **Modulación QAM, **Canal con Ruido (AWGN), y **Demodulación y Recepción*.
+Se culmina el proyecto con el desarrollo de un *dashboard interactivo en Streamlit* y un *video explicativo, integrando herramientas como la *Generación de señales con la FFT* ,*Filtros Digitales*, *Señales I/Q*, *Modulación QAM*, *Canal con Ruido (AWGN)*, y *Demodulación y Recepción*.
 
 El video explicativo sera enviado como anexo en link de YouTube.
 
